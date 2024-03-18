@@ -1,4 +1,4 @@
-# Analyse-de-Donnees-avec-Pandas-Ma-trisez-Python-pour-le-Data-Science
+# Analyse-de-Donnees-avec-Pandas-pour-le-Data-Science
 
 Dans le cours "Analyse de Données Avancée avec Pandas: Maîtrisez Python pour le Data Science", vous plongerez au cœur de l'analyse de données en utilisant l'une des bibliothèques les plus puissantes et les plus populaires de Python : Pandas. Conçu pour les débutants ambitieux et les professionnels souhaitant affiner leurs compétences, ce cours propose une approche pratique et approfondie pour transformer des données brutes en insights actionnables.
 
